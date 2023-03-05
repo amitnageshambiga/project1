@@ -1,0 +1,25 @@
+.c1{
+
+    
+    display:flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+
+}
+.c2 ul{
+align-items:stretch;
+list-style: none;
+display: flex;
+justify-content: space-between;
+width: 300px;
+}
+
+img{
+    align-items: center;
+    height:50px ;
+    width: 250px;
+}
+
+
+
+
