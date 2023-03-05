@@ -1,0 +1,27 @@
+.p1{
+    display: flex;
+    background-color: red;
+    height: 75px;
+}
+.p2{
+    background-color: rgba(245, 245, 245, 0.326);
+    display: flex;
+    list-style: none;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    justify-content: space-between;  
+    width: 600px;
+}
+.p3:hover,.p4:hover,.p5:hover,.p6:hover,.p7:hover{ 
+   background-color: yellow;
+   justify-content: space-between;
+}
+.p8{
+ margin-left: 50px;
+margin-bottom: 10px;
+}
+.i1{
+    height: 75px;
+    width: 300px;
+}

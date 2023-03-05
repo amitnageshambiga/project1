@@ -1,0 +1,20 @@
+
+#y1{
+    background-color: whitesmoke;
+    display: flex;
+    height: 75px;
+    
+}
+#y2{
+list-style: none;
+display: flex;
+margin-left: 300px;
+justify-content: space-between;
+width: 500px;
+margin-top: 30px;
+}
+#y3{
+    height: 55px;
+    width: 250px;
+    margin-top: 10px;
+}

@@ -1,0 +1,40 @@
+img{
+    height: 150px;
+    width: 100px;
+}
+
+
+
+
+#c1{
+    color: white;
+    background-color: rgba(2, 2, 61, 0.836);
+    display: flex;
+    height: 75px;
+justify-content: space-between;
+
+
+    
+}
+#c2{
+list-style:none ;
+display: flex;
+justify-content: space-between;
+width: 500px;
+text-align: center;
+margin-top: 30px;
+margin-right: 250px;
+}
+
+
+#c3{
+margin-right: 200px;
+margin-top: 30px;
+justify-content: space-between;
+
+}
+
+/* #c4{
+ justify-content: space-between;
+ width: 10px;
+} */
