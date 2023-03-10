@@ -1,0 +1,65 @@
+.f1{
+    color: blue;
+    border: 2px solid red;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+.f1:hover:not(img){
+filter: blur(2px) brightness(80%);
+
+}
+.f1 h3{
+top: 50px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.p1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.p2 div{
+    display: flex;
+}
+h1{
+    color: red;
+text-align: center;
+}
+h6{
+    color: red;
+text-align: right;
+width: 60px;
+}
+/* .f4{
+    color: red;
+    position: absolute;
+    top: 0;
+bottom: 0; 
+left: 0;
+right: 0;
+    top: 50%;
+    bottom: 50%;
+    font-size: 30px;
+    transform: translate(50%,50%);
+    -ms-transform: translate(50%,50%);
+} */
+/* .f3{
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+height: 100%;
+width: 100%;
+opacity: 0;
+transition: .5s ease;
+background-color: #008cba;
+}
+.f1:hover.f4{
+opacity: 1;
+} */

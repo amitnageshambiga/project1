@@ -1,13 +1,13 @@
 import React from "react";
+import JSON from "./JSON/userdata.json";
+import "./JSON/global.css"
+import Student from "./JSON/Student";
 
 const App=()=>
 {
     return(
-        <>
-<div>bandiddini</div>
-<div>nod</div>
-<div>guru</div>
-</>
-    )
+
+        <Student payload={JSON}/>
+)
 }
 export default App
