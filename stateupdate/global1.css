@@ -1,0 +1,18 @@
+.d1{
+text-align: center;
+}
+.d2{
+border-radius: 30%;
+color: blue;
+
+}
+
+.d2:hover{
+color: red;
+overflow: unset;
+}
+
+.d3{
+    color: aqua;
+    background-color: whitesmoke;
+}
